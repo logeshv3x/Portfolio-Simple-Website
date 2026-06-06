@@ -26,6 +26,6 @@ Mobile-ல 100% சரியா வேலை செய்யும். Chrome De
 Fresher UI Developer. HTML, CSS, JavaScript-ல Responsive Website Build பண்றது பிடிக்கும். React கத்துகிட்டு வரேன்.
 
 **Connect with me:** 
-Email: உன் Email ID போடு  
-LinkedIn: உன் LinkedIn Link போடு  
+Email: logeshsekar67@gmail.com 
+LinkedIn: https://www.linkedin.com/in/logesh-s-a759133ab  
 GitHub: https://github.com/logeshv3x
